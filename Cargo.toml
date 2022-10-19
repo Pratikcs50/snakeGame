@@ -1,10 +1,8 @@
 [package]
-name = "snakeGame"
+name = "snake"
 version = "0.1.0"
-edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Aravind M <34851872+the-code-innovator@users.noreply.github.com>"]
 
 [dependencies]
-rand="0.3.18"
-piston_window="0.74.0"
+rand = "0.8.5"
+piston_window = "0.123.0"
